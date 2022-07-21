@@ -1,6 +1,6 @@
 {
   "name": "@testing-lerna/component",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "",
   "main": "AlertView.jsx",
   "scripts": {
