@@ -1,14 +1,11 @@
 {
   "name": "@mauja-components/component",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "",
-  "main": "AlertView.jsx",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "root": "github:ContrerasJoel/lerna-1"
-  }
+  "license": "ISC"
 }
