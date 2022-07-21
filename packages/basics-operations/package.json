@@ -1,6 +1,6 @@
 {
   "name": "@testing-lerna/basics-operations",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "basics-operations.js",
   "scripts": {
