@@ -1,10 +1,10 @@
 {
   "name": "@testing-lerna/advanced-operations",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "advanced.js",
   "dependencies": {
-    "@testing-lerna/basics-operations": "^0.0.1"
+    "@testing-lerna/basics-operations": "^0.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
