@@ -15,7 +15,7 @@ const Button = (props) => {
 
 Button.defaultProps = {
     onClick: () => {},
-    label: ''
+    label: 'mauja'
 };
 
 export default Button;
